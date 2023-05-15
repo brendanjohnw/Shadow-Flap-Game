@@ -9,3 +9,10 @@ Flames will also spawn by steel pipes to attack the player's bird.
 ## Dependencies 
 BAGEL: Basic Academic Graphics Engine Library by Eleanor McMurtry based which extends the lwjgl framework.
 
+## Getting Started
+
+1. Clone the repository
+2. Open your favourite IDE, I recommend IntelliJ IDEA, it's free and you can use it if you don't already have it
+3. Open the codebase as a project
+4. Run it.
+
